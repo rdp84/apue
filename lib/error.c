@@ -1,4 +1,4 @@
-#include "../include/apue.h"
+#include "apue.h"
 #include <errno.h>            /* for definition off errno */
 #include <stdarg.h>           /* ISO C variable arguments */
 
