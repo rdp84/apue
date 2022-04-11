@@ -1,0 +1,9 @@
+# Ignore bin directories
+bin/
+
+# Ignore object files
+*.o
+    
+# Emacs
+*#*
+    
